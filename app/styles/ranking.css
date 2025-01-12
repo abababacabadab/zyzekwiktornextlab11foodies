@@ -1,0 +1,13 @@
+.meal-list {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px;
+    justify-content: flex-start;
+    padding: 0;
+    list-style: none;  
+  }
+  
+  .meal-card {
+    box-shadow: none;  
+  }
+  
